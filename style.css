@@ -1,0 +1,16 @@
+.row input:focus{
+    border:1px solid transparent;
+    box-shadow: none;
+    outline: none;
+}
+.row textarea:focus{
+    border:1px solid transparent;
+    box-shadow: none;
+    outline: none;
+}
+.row select:focus{
+    border:1px solid transparent;
+    box-shadow: none;
+    outline: none;
+}
+
